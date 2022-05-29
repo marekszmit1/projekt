@@ -63,7 +63,7 @@ class Product
     }
 
     public function getPrice(): ?float
-    {
+    { 
         return $this->price;
     }
 
